@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Papers and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.qu1gl3s.munki.Papers4</string>
+	<string>com.github.qu1gl3s.munki.Papers</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>0.5.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.qu1gl3s.download.Papers4</string>
+	<string>com.github.qu1gl3s.download.Papers</string>
 	<key>Process</key>
 	<array>
 		<dict>

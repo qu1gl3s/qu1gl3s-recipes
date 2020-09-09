@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Papers.</string>
 	<key>Identifier</key>
-	<string>com.github.qu1gl3s.download.Papers4</string>
+	<string>com.github.qu1gl3s.download.Papers</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
